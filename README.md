@@ -52,7 +52,7 @@ Les couleurs de fond de chaque catégorie est dans la variable *Colors* du progr
 ## À faire
 1. ~~mettrre null.png dans répertoire racine~~
 2. permettre de choisir son répertoire de travail (actuellement celui où est le programme)
-3. paramétrer taille des icônes (actuellement 68px)
+3. paramétrer taille des icônes (actuellement 64px)
 4. Générer une version portrait et une version paysage
 5. écrire une interface graphique
 6. mette CryptMac dans un répertoire d'où on pourra toujours l'appeler
