@@ -4,7 +4,7 @@
 Enregistrer des signets dans un fichier (au format json).  
 Chaque signet appartient à une catégorie, est défini par son nom, son url et éventuellement l'icoône associée.  
 Le programmle administre les signets, génère le fichier Html à publier, et peut même le diffuser.  
-Pour l'instant seule un mode ligne de commande est développé  
+Pour l'instant seul un mode ligne de commande est développé  
 
 ## Éléments
 bookmarks.py. Programme principal qui peut être lancé en principal (main) ou appelé par un programme interface (à développer)   
