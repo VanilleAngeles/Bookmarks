@@ -59,9 +59,4 @@ Les couleurs de fond de chaque catégorie est dans la variable *Colors* du progr
 7. générer une version .deb
 
 
-
-
-
-
-
-
+[1] [Lien vers aide éditeur markdown](https://docs.roadiz.io/fr/latest/user/write-in-markdown/)
