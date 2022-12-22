@@ -1,0 +1,258 @@
+/*----------------------------------------------------------------------Famille ROUGE */
+.IndianRed { border:1px solid red; background-color:IndianRed;  }
+.LightCoral { border:1px solid red; background-color:LightCoral;  }
+.Salmon { border:1px solid red; background-color:Salmon;  }
+.DarkSalmon { border:1px solid red; background-color:DarkSalmon;  }
+.LightSalmon { border:1px solid red; background-color:LightSalmon;  }
+.Crimson { border:1px solid red; background-color:Crimson;  }
+.Red { border:1px solid red; background-color:Red;  }
+.FireBrick { border:1px solid red; background-color:FireBrick;  }
+.DarkRed { border:1px solid red; background-color:DarkRed;  }
+/*----------------------------------------------------------------------Famille ROSE */
+.Pink { border:1px solid red; background-color:Pink;  }
+.LightPink { border:1px solid red; background-color:LightPink;  }
+.HotPink { border:1px solid red; background-color:HotPink;  }
+.DeepPink { border:1px solid red; background-color:DeepPink;  }
+.MediumVioletRed { border:1px solid red; background-color:MediumVioletRed;  }
+.PaleVioletRed { border:1px solid red; background-color:PaleVioletRed;  }
+/*----------------------------------------------------------------------Famille ORANGE */
+.LightSalmon { border:1px solid red; background-color:LightSalmon;  }
+.Coral { border:0px solid red; background-color:Coral;  }
+.Tomato { border:1px solid red; background-color:Tomato;  }
+.OrangeRed { border:1px solid red; background-color:OrangeRed;  }
+.DarkOrange { border:1px solid red; background-color:DarkOrange;  }
+.Orange { border:1px solid red; background-color:Orange;  }
+/*----------------------------------------------------------------------Famille JAUNE */
+.Gold { border:1px solid red; background-color:Gold;  }
+.Yellow { border:1px solid red; background-color:Yellow;  }
+.LightYellow { border:1px solid red; background-color:LightYellow;  }
+.LemonChiffon { border:1px solid red; background-color:LemonChiffon;  }
+.LightGoldenrodYellow { border:1px solid red; background-color:LightGoldenrodYellow;  }
+.PapayaWhip { border:1px solid red; background-color:PapayaWhip;  }
+.Moccasin { border:1px solid red; background-color:Moccasin;  }
+.PeachPuff { border:1px solid red; background-color:PeachPuff;  }
+.PaleGoldenrod { border:1px solid red; background-color:PaleGoldenrod;  }
+.Khaki { border:1px solid red; background-color:Khaki;  }
+.DarkKhaki { border:1px solid red; background-color:DarkKhaki;  }
+/*----------------------------------------------------------------------Famille VIOLET */
+.Lavender { border:1px solid red; background-color:Lavender;  }
+.Thistle { border:1px solid red; background-color:Thistle;  }
+.Plum { border:1px solid red; background-color:Plum;  }
+.Violet { border:1px solid red; background-color:Violet;  }
+.Orchid { border:1px solid red; background-color:Orchid;  }
+.Fuchsia { border:1px solid red; background-color:Fuchsia;  }
+.Magenta { border:1px solid red; background-color:Magenta;  }
+.MediumOrchid { border:1px solid red; background-color:MediumOrchid;  }
+.MediumPurple { border:1px solid red; background-color:MediumPurple;  }
+.RebeccaPurple { border:1px solid red; background-color:RebeccaPurple;  }
+.BlueViolet { border:1px solid red; background-color:BlueViolet;  }
+.DarkViolet { border:1px solid red; background-color:DarkViolet;  }
+.DarkOrchid { border:1px solid red; background-color:DarkOrchid;  }
+.DarkMagenta { border:1px solid red; background-color:DarkMagenta;  }
+.Purple { border:1px solid red; background-color:Purple;  }
+.Indigo { border:1px solid red; background-color:Indigo;  }
+.SlateBlue { border:1px solid red; background-color:SlateBlue;  }
+.DarkSlateBlue { border:1px solid red; background-color:DarkSlateBlue;  }
+.MediumSlateBlue { border:1px solid red; background-color:MediumSlateBlue;  }
+/*----------------------------------------------------------------------Famille VERT */
+.GreenYellow { border:1px solid red; background-color:GreenYellow;  }
+.Chartreuse { border:1px solid red; background-color:Chartreuse;  }
+.LawnGreen { border:1px solid red; background-color:LawnGreen;  }
+.Lime { border:1px solid red; background-color:Lime;  }
+.LimeGreen { border:1px solid red; background-color:LimeGreen;  }
+.PaleGreen { border:1px solid red; background-color:PaleGreen;  }
+.LightGreen { border:1px solid red; background-color:LightGreen;  }
+.MediumSpringGreen { border:1px solid red; background-color:MediumSpringGreen;  }
+.SpringGreen { border:1px solid red; background-color:SpringGreen;  }
+.MediumSeaGreen { border:1px solid red; background-color:MediumSeaGreen;  }
+.SeaGreen { border:1px solid red; background-color:SeaGreen;  }
+.ForestGreen { border:1px solid red; background-color:ForestGreen;  }
+.Green { border:1px solid red; background-color:Green;  }
+.DarkGreen { border:1px solid red; background-color:DarkGreen;  }
+.YellowGreen { border:1px solid red; background-color:YellowGreen;  }
+.OliveDrab { border:1px solid red; background-color:OliveDrab;  }
+.Olive { border:1px solid red; background-color:Olive;  }
+.DarkOliveGreen { border:1px solid red; background-color:DarkOliveGreen;  }
+.MediumAquamarine { border:1px solid red; background-color:MediumAquamarine;  }
+.DarkSeaGreen { border:1px solid red; background-color:DarkSeaGreen;  }
+.LightSeaGreen { border:1px solid red; background-color:LightSeaGreen;  }
+.DarkCyan { border:1px solid red; background-color:DarkCyan;  }
+.Teal { border:1px solid red; background-color:Teal;  }
+/*----------------------------------------------------------------------Famille BLEU */
+.Aqua { border:1px solid red; background-color:Aqua;  }
+.Cyan { border:1px solid red; background-color:Cyan;  }
+.LightCyan { border:1px solid red; background-color:LightCyan;  }
+.PaleTurquoise { border:1px solid red; background-color:PaleTurquoise;  }
+.Aquamarine { border:1px solid red; background-color:Aquamarine;  }
+.Turquoise { border:1px solid red; background-color:Turquoise;  }
+.MediumTurquoise { border:1px solid red; background-color:MediumTurquoise;  }
+.DarkTurquoise { border:1px solid red; background-color:DarkTurquoise;  }
+.CadetBlue { border:1px solid red; background-color:CadetBlue;  }
+.SteelBlue { border:1px solid red; background-color:SteelBlue;  }
+.LightSteelBlue { border:1px solid red; background-color:LightSteelBlue;  }
+.PowderBlue { border:1px solid red; background-color:PowderBlue;  }
+.LightBlue { border:1px solid red; background-color:LightBlue;  }
+.SkyBlue { border:1px solid red; background-color:SkyBlue;  }
+.LightSkyBlue { border:1px solid red; background-color:LightSkyBlue;  }
+.DeepSkyBlue { border:1px solid red; background-color:DeepSkyBlue;  }
+.DodgerBlue { border:1px solid red; background-color:DodgerBlue;  }
+.CornflowerBlue { border:1px solid red; background-color:CornflowerBlue;  }
+.MediumSlateBlue { border:1px solid red; background-color:MediumSlateBlue;  }
+.RoyalBlue { border:1px solid red; background-color:RoyalBlue;  }
+.Blue { border:1px solid red; background-color:Blue;  }
+.MediumBlue { border:1px solid red; background-color:MediumBlue;  }
+.DarkBlue { border:1px solid red; background-color:DarkBlue;  }
+.Navy { border:1px solid red; background-color:Navy;  }
+.MidnightBlue { border:1px solid red; background-color:MidnightBlue;  }
+/*----------------------------------------------------------------------Famille MARRON */
+.Cornsilk { border:1px solid red; background-color:Cornsilk;  }
+.BlanchedAlmond { border:1px solid red; background-color:BlanchedAlmond;  }
+.Bisque { border:1px solid red; background-color:Bisque;  }
+.NavajoWhite { border:1px solid red; background-color:NavajoWhite;  }
+.Wheat { border:1px solid red; background-color:Wheat;  }
+.BurlyWood { border:1px solid red; background-color:BurlyWood;  }
+.Tan { border:1px solid red; background-color:Tan;  }
+.RosyBrown { border:1px solid red; background-color:RosyBrown;  }
+.SandyBrown { border:1px solid red; background-color:SandyBrown;  }
+.Goldenrod { border:1px solid red; background-color:Goldenrod;  }
+.DarkGoldenrod { border:1px solid red; background-color:DarkGoldenrod;  }
+.Peru { border:1px solid red; background-color:Peru;  }
+.Chocolate { border:1px solid red; background-color:Chocolate;  }
+.SaddleBrown { border:1px solid red; background-color:SaddleBrown;  }
+.Sienna { border:1px solid red; background-color:Sienna;  }
+.Brown { border:1px solid red; background-color:Brown;  }
+.Maroon { border:1px solid red; background-color:Maroon;  }
+/*----------------------------------------------------------------------Famille BLANC */
+.White { border:1px solid red; background-color:White;  }
+.Snow { border:1px solid red; background-color:Snow;  }
+.HoneyDew { border:1px solid red; background-color:HoneyDew;  }
+.MintCream { border:1px solid red; background-color:MintCream;  }
+.Azure { border:1px solid red; background-color:Azure;  }
+.AliceBlue { border:1px solid red; background-color:AliceBlue;  }
+.GhostWhite { border:1px solid red; background-color:GhostWhite;  }
+.WhiteSmoke { border:1px solid red; background-color:WhiteSmoke;  }
+.SeaShell { border:1px solid red; background-color:SeaShell;  }
+.Beige { border:1px solid red; background-color:Beige;  }
+.OldLace { border:1px solid red; background-color:OldLace;  }
+.FloralWhite { border:1px solid red; background-color:FloralWhite;  }
+.Ivory { border:1px solid red; background-color:Ivory;  }
+.AntiqueWhite { border:1px solid red; background-color:AntiqueWhite;  }
+.Linen { border:1px solid red; background-color:Linen;  }
+.LavenderBlush { border:1px solid red; background-color:LavenderBlush;  }
+.MistyRose { border:1px solid red; background-color:MistyRose;  }
+/*----------------------------------------------------------------------Famille NOIR */
+.Gainsboro { border:1px solid red; background-color:Gainsboro;  }
+.LightGray { border:1px solid red; background-color:LightGray;  }
+.Silver { border:1px solid red; background-color:Silver;  }
+.DarkGray { border:1px solid red; background-color:DarkGray;  }
+.Gray { border:1px solid red; background-color:Gray;  }
+.DimGray { border:1px solid red; background-color:DimGray;  }
+.LightSlateGray { border:1px solid red; background-color:LightSlateGray;  }
+.SlateGray { border:1px solid red; background-color:SlateGray;  }
+.DarkSlateGray { border:1px solid red; background-color:DarkSlateGray;  }
+.Black { border:1px solid red; background-color:Black;  }
+
+.rose {
+ border:1px solid red;
+ background-color:pink;
+ }
+ .gold {
+ border:1px solid yellow;
+ background-color:gold;
+ }
+ .gris {
+ border:1px solid black;
+ background-color:gray;
+ }
+.marron {
+ border:1px solid maroon;
+ background-color:peru;
+ }
+.bleu {
+ border:1px solid navy;
+ background-color:skyblue;
+ }
+.marine {
+ border:1px solid skyblue;
+ background-color:navy;
+ }
+.violet {
+ border:1px solid fuchsia;
+ background-color:lavender;
+ }
+.jaune {
+ border:1px solid DarkKhaki;
+ background-color:LightYellow;
+ }
+.vert {
+ border:1px solid DarkOliveGreen;
+ background-color:SpringGreen;
+ }
+.rouge {
+ border:1px solid DarkRed;
+ background-color:Salmon;
+ }
+body
+{
+	background-color: DarkSlateGray;
+}
+ ul
+{
+	margin-top:0px;
+	margin-bottom:0px;
+	margin-left:-10px
+}
+h1
+{
+	margin:10px;
+	font-size : xx-large;
+	padding:0px;
+	font-variant: small-caps;
+}
+h2
+{
+	margin:0px;
+	font-size : x-large;
+	background-color: whitesmoke;
+	color: royalblue;
+	padding:0px;
+	font-variant: small-caps;
+}
+table
+{
+	border-width:1px;
+	border-radius: 10px 10px 10px 10px;
+	padding:5px;
+	margin:5px;
+	border-style:solid;
+	border-color:black;
+ }
+
+/* Source for data-title: https://stackoverflow.com/questions/2011142/how-to-change-the-style-of-the-title-attribute-inside-an-anchor-tag */
+[data-title]:hover:after 
+ {
+    opacity: 1;
+    transition: all 0.1s ease 0.5s;
+    visibility: visible;
+ }
+[data-title]:after 
+{
+    content: attr(data-title);
+    background-color: #00FF00;
+    color: #111;
+    font-size: 150%;
+    position: absolute;
+    padding: 1px 5px 2px 5px;
+    bottom: -1.6em;
+    left: 100%;
+    white-space: nowrap;
+    box-shadow: 1px 1px 3px #222222;
+    opacity: 0;
+    border: 1px solid #111111;
+    z-index: 99999;
+    visibility: hidden;
+}
+[data-title] 
+{
+    position: relative;
+}
