@@ -45,7 +45,8 @@ Fichier de l'entête utilisé pour constituer le fichier html; il pourra être m
 Les répertoires .ico .img .sav sont vides.  
 Seul le fichier null.png dans le répertoire .ico sert à compléter les tableaux des catégories pour qu'ils aient la même hauteur
 Le fichier link.json ne contient que le formatage d'un fichier json  
-> []  
+> [ ]  
+
 Les couleurs de fond de chaque catégorie est dans la variable *Colors* du programme principal. Si le nombre de catégories est supérieur au nombre de couleurs, on boucle en revenant sur la première couleur.  
 
 ## À faire
