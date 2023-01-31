@@ -7,15 +7,15 @@ Le programme administre les signets, génère le fichier Html à publier, et peu
 Pour l'instant seul un mode ligne de commande est développé  
 
 ## Éléments
-bkmUI.py.     Programme principal en mode graphique
-bkm.py        Programme secondaire en mode ligne de commande
-config.ini    Fichier de configuration (gérable par les options du programme) qui permet de nommer les fichiers annexes (répertoires des icônes et des icônes spécifiques,répertoire de sauvegarde, nom du fichier htrml généré, taille des icônes téléchargées...) 
-CryptMac.py   Programme qui permet de crypter des données (user/MdP...). La clé de cryptage est l'adresse mac de l'ordinateur qui l'éxécute  
-link.json     Base json qui contient les données  
-index.html     Fichier Html généré  
-.ico          Répertoire des icônes téléchargées automatiquement  
-.img          Répertoire des images spécifiques  
-.sav          Sauvegarde des fichier json avant modification  
+- bkmUI.py.     Programme principal en mode graphique
+- bkm.py        Programme secondaire en mode ligne de commande
+- config.ini    Fichier de configuration (gérable par les options du programme) qui permet de nommer les fichiers annexes (répertoires des icônes et des icônes spécifiques,répertoire de sauvegarde, nom du fichier htrml généré, taille des icônes téléchargées...) 
+- CryptMac.py   Programme qui permet de crypter des données (user/MdP...). La clé de cryptage est l'adresse mac de l'ordinateur qui l'éxécute  
+- link.json     Base json qui contient les données  
+-index.html     Fichier Html généré  
+- ico          Répertoire des icônes téléchargées automatiquement  
+- img          Répertoire des images spécifiques  
+- sav          Sauvegarde des fichier json avant modification  
 
 ### bkmUI.py
 Écrit à l'aide de l'utilitaire tkinter, les options sont dans le bandeau d'entête.  
