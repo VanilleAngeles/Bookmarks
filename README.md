@@ -79,6 +79,3 @@ Les couleurs de fond de chaque catégorie est dans la variable *Colors* du progr
 
 [1] [Lien vers aide éditeur markdown](https://docs.roadiz.io/fr/latest/user/write-in-markdown/)
 [^1]: enregistrements du fichier de configuration
-
-
-        
