@@ -7,16 +7,20 @@ Le programme administre les signets, génère le fichier Html à publier, et peu
 Pour l'instant seul un mode ligne de commande est développé  
 
 ## Éléments
-- bkmUI.py.     Programme principal en mode graphique
-- bkm.py        Programme secondaire en mode ligne de commande
-- config.ini    Fichier de configuration (gérable par les options du programme) qui permet de nommer les fichiers annexes (répertoires des icônes et des icônes spécifiques,répertoire de sauvegarde, nom du fichier htrml généré, taille des icônes téléchargées...) 
-- CryptMac.py   Programme qui permet de crypter des données (user/MdP...). La clé de cryptage est l'adresse mac de l'ordinateur qui l'éxécute  
-- link.json     Base json qui contient les données  
--index.html     Fichier Html généré  
-- ico          Répertoire des icônes téléchargées automatiquement  
-- img          Répertoire des images spécifiques  
-- sav          Sauvegarde des fichier json avant modification  
 
+
+| Programme| Fonction| 
+| -------- | -------- |
+| bkmUI.py |Programme principal en mode graphique|
+|bkm.py|Programme secondaire en mode ligne de commande|
+|config.ini|Fichier de configuration (gérable par les options du programme) qui permet de nommer les fichiers annexes (répertoires des icônes et des icônes spécifiques,répertoire de sauvegarde, nom du fichier htrml généré, taille des icônes téléchargées...) |
+|CryptMac.py|Programme qui permet de crypter des données (user/MdP...). La clé de cryptage est l'adresse mac de l'ordinateur qui l'éxécute |
+|link.json|Base json qui contient les données  |
+|index.html|Fichier html généré|
+|.ico|Répertoire des icônes téléchargées automatiquement|
+|.img|Répertoire des icônes spécifiques|
+|sav|Répertoire de sauvegarde des précédentes version du fichier link.json|
+        
 ### bkmUI.py
 Écrit à l'aide de l'utilitaire tkinter, les options sont dans le bandeau d'entête.  
 - file: regroupe ce qui peut gérer les enregistrements:  
@@ -26,7 +30,7 @@ Pour l'instant seul un mode ligne de commande est développé
 Il est préférable de positionner le programme dans le répertoire contenant les autres fichiers et les sous-répertoires (.ico .img .sav)
 
 ### bkm.py
-Ce programme est l'ancêtre du précédent. Il n'a plus trop d'utiklité mais peut être utilisé en chargemlent de masse.
+Ce programme est l'ancêtre du précédent. Il n'a plus trop d'utilité mais peut être utilisé en chargemlent de masse.
 Le programme concentre toutes les options de lancement
 - -l ou --list  liste tous les signets par catégorie
 - -a ou --add   permet d'ajouter un signet. Si l'icône n'est pas renseignée, c'est le favicon du site qui est chargé (si absent, icône avec initiales)
