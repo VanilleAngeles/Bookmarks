@@ -8,12 +8,11 @@ Pour l'instant seul un mode ligne de commande est développé
 
 ## Éléments
 
-
 | Programme| Fonction| 
 | -------- | -------- |
 | bkmUI.py |Programme principal en mode graphique|
 |bkm.py|Programme secondaire en mode ligne de commande|
-|config.ini|Fichier de configuration (gérable par les options du programme) qui permet de nommer les fichiers annexes (répertoires des icônes et des icônes spécifiques,répertoire de sauvegarde, nom du fichier htrml généré, taille des icônes téléchargées...) |
+|config.ini[^1]|Fichier de configuration (gérable par les options du programme) qui permet de nommer les fichiers annexes (répertoires des icônes et des icônes spécifiques,répertoire de sauvegarde, nom du fichier htrml généré, taille des icônes téléchargées...) |
 |CryptMac.py|Programme qui permet de crypter des données (user/MdP...). La clé de cryptage est l'adresse mac de l'ordinateur qui l'éxécute |
 |link.json|Base json qui contient les données  |
 |index.html|Fichier html généré|
@@ -79,3 +78,7 @@ Les couleurs de fond de chaque catégorie est dans la variable *Colors* du progr
 
 
 [1] [Lien vers aide éditeur markdown](https://docs.roadiz.io/fr/latest/user/write-in-markdown/)
+[^1]: enregistrements du fichier de configuration
+
+
+        
